@@ -1,0 +1,6 @@
+Basic Git Commands
+
+git init - create repository
+git status - check status
+git add - stage files
+git commit - save changes
