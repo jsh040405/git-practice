@@ -1,0 +1,5 @@
+Git Practice
+
+I created a local repository.
+I added files using git add.
+I saved changes using git commit.
